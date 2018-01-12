@@ -1,21 +1,7 @@
 # snake
+用 A-FRAME 做的一个贪吃蛇 demo
 
-> A Vue.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+吃红色方块增加自己体积
+吃绿色方块增加自己速度
+方块按时间增加
+自身自动移动，手机上晃动手机改变方向，电脑上键盘鼠标控制
